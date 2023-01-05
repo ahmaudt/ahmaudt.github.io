@@ -2,8 +2,8 @@
   "status":"OK",
   "tag":"payRequest",
   "commentAllowed":255,
-  "callback":"https://ahmaud.codes/lnurlp/ahmaud/callback",
-  "metadata":"[[\"text/identifier\", \"ahmaud@ahmaud.codes\"], [\"text/plain\", \"Sats for ahmaud\"]]",
+  "callback":"https://getalby.com/lnurlp/ahmaud/callback",
+  "metadata":"[[\"text/identifier\", \"ahmaud@getalby.com\"], [\"text/plain\", \"Sats for ahmaud\"]]",
   "minSendable":1000,"maxSendable":11000000000,
   "payerData":
     {
